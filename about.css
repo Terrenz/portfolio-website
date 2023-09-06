@@ -72,6 +72,7 @@ body {
 .personal-info {
   color: #fff;
   margin-top: -300px;
+  margin-left: -70px;
 }
 
 .pf1 h3 {
@@ -93,19 +94,28 @@ body {
   font-weight: bold;
 }
 
-.pf1 button {
+.pf1 a button {
   border: none;
-  padding: 15px 30px;
+  padding: 10px 20px;
   border-radius: 30px;
   background-color: #ffb400;
   margin-left: 200px;
 }
 
-.pf1 button a {
+.pf1 a button {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
-  background-color: #ffb400;
+  /* background-color: #ffb400; */
+}
+
+.pf1 a button .rihanna {
+  display: none;
+}
+
+.pf1 a button:hover .rihanna {
+  display: inline;
+  width: fit-content;
 }
 
 .pf2 ul {

@@ -115,8 +115,15 @@ h1 {
   font-weight: bold;
 }
 
-/* ICONS */
+.middle button a .plane {
+  display: none;
+}
 
+.middle button a:hover .plane {
+  display: inline;
+}
+
+/* ICONS */
 .right {
   border: 2px solid#fff;
   width: 150px;
