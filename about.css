@@ -118,6 +118,10 @@ body {
   width: fit-content;
 }
 
+.pf2 {
+  margin-top: 8px;
+}
+
 .pf2 ul {
   list-style: none;
   margin-left: 40px;
