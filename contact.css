@@ -150,6 +150,15 @@ body {
   font-weight: bold;
 }
 
+.textarea button a .letter {
+  display: none;
+}
+
+.textarea button a:hover .letter {
+  display: inline;
+  width: fit-content;
+}
+
 /* ICONS */
 
 .right {
