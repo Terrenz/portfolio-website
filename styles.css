@@ -109,17 +109,17 @@ h1 {
   background-color: #ffb400;
 }
 
-.middle button a {
+.middle a button {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
 }
 
-.middle button a .plane {
+.middle a button .plane {
   display: none;
 }
 
-.middle button a:hover .plane {
+.middle a button:hover .plane {
   display: inline;
 }
 

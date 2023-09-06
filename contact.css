@@ -144,17 +144,17 @@ body {
   background-color: #ffb400;
 }
 
-.textarea button a {
+.textarea a button {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
 }
 
-.textarea button a .letter {
+.textarea a button .letter {
   display: none;
 }
 
-.textarea button a:hover .letter {
+.textarea a button:hover .letter {
   display: inline;
   width: fit-content;
 }
