@@ -108,6 +108,11 @@ body {
   margin-left: 20px;
 }
 
+.image-write h3:hover {
+  color: #ffb400;
+  transform: scale(1.1);
+}
+
 .image-write p {
   color: #fff;
   margin-bottom: 30px;
