@@ -75,11 +75,21 @@ body {
   padding-bottom: 30px;
 }
 
+.image-blog,
+.image-blog2,
+.image-blog3 a {
+  text-decoration: none;
+}
+
 .image1 {
   margin-bottom: 30px;
 }
 
 .image1 a {
+  text-decoration: none;
+}
+
+.image2 a {
   text-decoration: none;
 }
 
@@ -110,7 +120,7 @@ body {
 
 .image-write h3:hover {
   color: #ffb400;
-  transform: scale(1.1);
+  transform: scale(1.01);
 }
 
 .image-write p {
