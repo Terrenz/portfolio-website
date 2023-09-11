@@ -141,7 +141,8 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 1000px;
-  margin: auto;
+  /* margin: auto; */
+  margin-left: 50px;
 }
 
 /* ICONS */
